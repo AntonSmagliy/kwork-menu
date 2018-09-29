@@ -1,0 +1,1 @@
+if((document.getElementsByClassName('divMiniPrice').item(0)!=null)){$('.divMiniPrice').slick({dots:true,infinite:false,arrows:true,adaptiveHeight:true,responsive:[{breakpoint:5920,settings:{slidesToShow:3,slidesToScroll:1,arrows:false}},{breakpoint:430,settings:{slidesToShow:1,slidesToScroll:1,arrows:false,centerMode:true,centerPadding:'20px'}}]});}
